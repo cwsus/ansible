@@ -14,7 +14,7 @@ dotfiles_repo: git://github.com/cws-khuntly/dotfiles.git
 version: HEAD
 
 ## replacement variables for eSolutionsCore/ServiceConfig.xml
-mail_address: khuntly@synacor.com
+mail_address: khuntly@caspersbox.com
 proxy_required: false
 proxy_host: 
 proxy_port: 
